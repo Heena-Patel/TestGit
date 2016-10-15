@@ -1,0 +1,53 @@
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.pdb
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.xml
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.Resources.resources
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.xml
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.pdb
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\Interop.SAMPLETTSENGLib.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\Interop.SpeechLib.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.vbproj.ResolveComReference.cache
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\Interop.SAMPLETTSENGLib.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\Interop.SpeechLib.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\Animage.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.vbproj.ResolveComReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.Resources.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.vbproj.GenerateResource.Cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\bin\Debug\Interop.SpeechLib.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateIt\obj\x86\Debug\CreateIt.vbprojResolveAssemblyReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\bin\Debug\Animage.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\bin\Debug\Interop.SpeechLib.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.vbprojResolveAssemblyReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.vbproj.ResolveComReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.Resources.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.vbproj.GenerateResource.Cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.pdb
+D:\LiveProject\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.dll.config
+D:\LiveProject\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.dll
+D:\LiveProject\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.pdb
+D:\LiveProject\CreateItServiceMain\CreateIt\bin\Debug\CreateIt.xml
+D:\LiveProject\CreateItServiceMain\CreateIt\bin\Debug\Interop.SpeechLib.dll
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\Interop.SpeechLib.dll
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.vbproj.ResolveComReference.cache
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.Resources.resources
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.vbproj.GenerateResource.Cache
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.dll
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.xml
+D:\LiveProject\CreateItServiceMain\CreateIt\obj\x86\Debug\CreateIt.pdb

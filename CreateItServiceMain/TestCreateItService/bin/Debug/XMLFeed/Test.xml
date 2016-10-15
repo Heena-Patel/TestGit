@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?><PtSlides>
+    <PtSlideshowConversion slideshowNumber="1">
+    <client>
+            <userId>2024</userId>
+      <name>Linda Byron</name>
+      <email>lindab@remaxind.co.za</email>
+      <country>za</country>
+      
+      
+                        <youtubeUsername></youtubeUsername>
+                  <youtubePassword></youtubePassword>
+                  <youtubeApikey></youtubeApikey>
+      
+      <slideshowCreatedDate>2015-12-01 23:31:29</slideshowCreatedDate>
+          </client>
+    <sourceMedia>
+                        <image number="1">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857670&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="2">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857671&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="3">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857672&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="4">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857673&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="5">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857674&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="6">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140857675&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                </sourceMedia>
+    <destination>
+      <type>amazon</type>
+      <bucket>pt-slideshows</bucket>
+            <folder>2024</folder>
+                </destination>
+    <video>
+            <overlayImage><![CDATA[ http://www.propertytube.com/files/video-overlays/2024/REMAX.jpg ]]></overlayImage>
+      
+            <voiceOver>2</voiceOver>
+      
+            <theme>1</theme>
+      
+      <storeCopyOnFtp>1</storeCopyOnFtp>
+
+            <propertyId>480713</propertyId>
+      <filename>6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.mp4</filename>
+      
+      
+      <formats>
+        <format type="sd-mp4">
+          <filename>600_450_6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.mp4</filename>
+          <thumbnail>600_450_6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.png</thumbnail>
+        </format>
+        <format type="sd-webm">
+          <filename>600_450_6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.webm</filename>
+        </format>
+        <format type="smartphone-mp4">
+          <filename>smartphone_6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.mp4</filename>
+          <thumbnail>smartphone_6-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-760-000-480713.png</thumbnail>
+        </format>
+      </formats>
+    </video>
+    <propertyDetails>
+      <title><![CDATA[ 6 Bedroom House For Sale in Cradock, Eastern Cape, South Africa for ZAR 1,760,000 ]]></title>
+      <spokenTitle><![CDATA[ 6 Bedroom House For Sale in Cradock, Eastern Cape, South Africa for  1,760,000 rand. ]]></spokenTitle>
+      <youtubeDescription></youtubeDescription>
+      <tags></tags>
+      <propertyPrice>ZAR  1,760,000</propertyPrice>
+      <sale>1</sale>
+      <rent>0</rent>
+      <bedrooms>6</bedrooms>
+      <bathrooms>5.0</bathrooms>
+      <location><![CDATA[ Cradock, Eastern Cape ]]></location>
+      <fullDescription><![CDATA[ SPACE is the ULTIMATE LUXURY!!!. Perfect home in perfect area! Best mountain views in town. This state of the art property has everything anyone can only dream of. Double security, video intercom access with remote gate, double garage and open parking for about 5 extra vehicles. Two newly installed top quality gas geysers safes enormously on electricity. 6 Bedrooms, 5 Bathrooms on the property, a huge lounge with solid wood bar chairs included, dining room, kitchen with separate scullery and laundry areas. Tv Room leads into braai area on patio which leads to pool and outside braai area with pizza oven. Not to talk about the Garden flat, Staff Quarters and good sized storage space. The garden is manageable with scrubs and grass. This is the address to be!!! ]]></fullDescription>
+            <propertyType><![CDATA[ House ]]></propertyType>
+          </propertyDetails>
+        <propertyAgents>
+          </propertyAgents>
+    
+  </PtSlideshowConversion>
+    <PtSlideshowConversion slideshowNumber="2">
+    <client>
+            <userId>2024</userId>
+      <name>Linda Byron</name>
+      <email>lindab@remaxind.co.za</email>
+      <country>za</country>
+      
+      
+                        <youtubeUsername></youtubeUsername>
+                  <youtubePassword></youtubePassword>
+                  <youtubeApikey></youtubeApikey>
+      
+      <slideshowCreatedDate>2016-02-19 10:28:08</slideshowCreatedDate>
+          </client>
+    <sourceMedia>
+                        <image number="1">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858240&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="2">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858241&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="3">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858242&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="4">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858243&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="5">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858244&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="6">
+        <url><![CDATA[ http://images.prop24.com/FetchImage.ashx?uid=140858245&meta=crop640x480 ]]></url>
+        <alttext></alttext>
+      </image>
+                </sourceMedia>
+    <destination>
+      <type>amazon</type>
+      <bucket>pt-slideshows</bucket>
+            <folder>2024</folder>
+                </destination>
+    <video>
+            <overlayImage><![CDATA[ http://www.propertytube.com/files/video-overlays/2024/REMAX.jpg ]]></overlayImage>
+      
+            <voiceOver>1</voiceOver>
+      
+            <theme>1</theme>
+      
+      <storeCopyOnFtp>1</storeCopyOnFtp>
+
+            <propertyId>503982</propertyId>
+      <filename>4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.mp4</filename>
+      
+      
+      <formats>
+        <format type="sd-mp4">
+          <filename>600_450_4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.mp4</filename>
+          <thumbnail>600_450_4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.png</thumbnail>
+        </format>
+        <format type="sd-webm">
+          <filename>600_450_4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.webm</filename>
+        </format>
+        <format type="smartphone-mp4">
+          <filename>smartphone_4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.mp4</filename>
+          <thumbnail>smartphone_4-bedroom-house-for-sale-in-cradock-eastern-cape-south-africa-for-zar-1-349-000-503982.png</thumbnail>
+        </format>
+      </formats>
+    </video>
+    <propertyDetails>
+      <title><![CDATA[ 4 Bedroom House For Sale in Cradock, Eastern Cape, South Africa for ZAR 1,349,000 ]]></title>
+      <spokenTitle><![CDATA[ 4 Bedroom House For Sale in Cradock, Eastern Cape, South Africa for  1,349,000 rand. ]]></spokenTitle>
+      <youtubeDescription></youtubeDescription>
+      <tags></tags>
+      <propertyPrice>ZAR  1,349,000</propertyPrice>
+      <sale>1</sale>
+      <rent>0</rent>
+      <bedrooms>4</bedrooms>
+      <bathrooms>2.0</bathrooms>
+      <location><![CDATA[ Cradock, Eastern Cape ]]></location>
+      <fullDescription><![CDATA[ The magnificent landscaping of the garden on this property will take your breath away. Good sized family home with 4 bedrooms, 2 bathrooms, 1 lounge, a family room, dining room and a farm sized fully fitted kitchen with built in cupboards, DEFY glass plate hob, double eye level oven and built in island, makes preparing food an absolute pleasure. The separate scullery laundry area is a added benefit to this property with its double garage and 4 open parking areas. The isolated roof helps to block out extreme heat and cold. This property is a fantastic family choice in the best area of town. ]]></fullDescription>
+            <propertyType><![CDATA[ House ]]></propertyType>
+          </propertyDetails>
+        <propertyAgents>
+          </propertyAgents>
+    
+  </PtSlideshowConversion>
+  </PtSlides>

@@ -1,0 +1,79 @@
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.exe
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.pdb
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.xml
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.Resources.resources
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.exe
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.xml
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.pdb
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.exe.config
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Animage.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\EasyAudio.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.YouTube.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.Client.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.Extensions.dll
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.pdb
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.xml
+D:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.ProjectInstaller.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.exe.config
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.exe
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateItService.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Animage.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\EasyAudio.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.YouTube.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.Client.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\Google.GData.Extensions.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\bin\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.vbprojResolveAssemblyReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.Resources.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.ProjectInstaller.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.vbproj.GenerateResource.Cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.exe
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItService\CreateItService\obj\x86\Debug\CreateItService.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.exe.config
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.exe
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\EasyAudio.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\Animage.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.YouTube.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.Client.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.Extensions.dll
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.pdb
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.vbprojResolveAssemblyReference.cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.Resources.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.ProjectInstaller.resources
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.vbproj.GenerateResource.Cache
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.exe
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.xml
+E:\Live Projects\PropertyTube\CreateIt\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.pdb
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.Resources.resources
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.ProjectInstaller.resources
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.vbproj.GenerateResource.Cache
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.exe.config
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.exe
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.pdb
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateItService.xml
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\EasyAudio.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\Animage.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\AWSSDK.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.YouTube.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.Client.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\Google.GData.Extensions.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.pdb
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\CreateIt.xml
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.exe
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.xml
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.pdb
+D:\LiveProject\CreateItServiceMain\CreateItService\bin\Debug\MySql.Data.dll
+D:\LiveProject\CreateItServiceMain\CreateItService\obj\x86\Debug\CreateItService.vbprojResolveAssemblyReference.cache

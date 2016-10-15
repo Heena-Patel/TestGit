@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="https://tts.neospeech.com" xmlns:xsd1="https://tts.neospeech.com" name="NeoSpeechTtsSoapService" targetNamespace="https://tts.neospeech.com" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="https://tts.neospeech.com">
+      <xsd:complexType name="ArrayOfString">
+        <xsd:complexContent mixed="false">
+          <xsd:restriction base="soapenc:Array">
+            <xsd:attribute wsdl:arrayType="xsd:string[]" ref="soapenc:arrayType" />
+          </xsd:restriction>
+        </xsd:complexContent>
+      </xsd:complexType>
+    </xsd:schema>
+  </types>
+  <message name="GetConversionStatusRequest">
+    <part name="email" type="xsd:string" />
+    <part name="accountId" type="xsd:string" />
+    <part name="conversionNumber" type="xsd:int" />
+  </message>
+  <message name="GetConversionStatusResponse">
+    <part name="GetConversionStatusResult" type="xsd1:ArrayOfString" />
+  </message>
+  <message name="ConvertSimpleRequest">
+    <part name="email" type="xsd:string" />
+    <part name="accountId" type="xsd:string" />
+    <part name="loginKey" type="xsd:string" />
+    <part name="loginPassword" type="xsd:string" />
+    <part name="voice" type="xsd:string" />
+    <part name="outputFormat" type="xsd:string" />
+    <part name="sampleRate" type="xsd:float" />
+    <part name="text" type="xsd:string" />
+  </message>
+  <message name="ConvertSimpleResponse">
+    <part name="ConvertSimpleResult" type="xsd1:ArrayOfString" />
+  </message>
+  <message name="ConvertSsmlRequest">
+    <part name="email" type="xsd:string" />
+    <part name="accountId" type="xsd:string" />
+    <part name="loginKey" type="xsd:string" />
+    <part name="loginPassword" type="xsd:string" />
+    <part name="voice" type="xsd:string" />
+    <part name="outputFormat" type="xsd:string" />
+    <part name="sampleRate" type="xsd:float" />
+    <part name="ssml" type="xsd:string" />
+    <part name="useUserDictionary" type="xsd:boolean" />
+  </message>
+  <message name="ConvertSsmlResponse">
+    <part name="ConvertSsmlResult" type="xsd1:ArrayOfString" />
+  </message>
+  <message name="ConvertTextRequest">
+    <part name="email" type="xsd:string" />
+    <part name="accountId" type="xsd:string" />
+    <part name="loginKey" type="xsd:string" />
+    <part name="loginPassword" type="xsd:string" />
+    <part name="voice" type="xsd:string" />
+    <part name="outputFormat" type="xsd:string" />
+    <part name="sampleRate" type="xsd:float" />
+    <part name="text" type="xsd:string" />
+    <part name="useUserDictionary" type="xsd:boolean" />
+    <part name="volume" type="xsd:int" />
+    <part name="speed" type="xsd:int" />
+    <part name="pitch" type="xsd:int" />
+  </message>
+  <message name="ConvertTextResponse">
+    <part name="ConvertTextResult" type="xsd1:ArrayOfString" />
+  </message>
+  <portType name="PortType">
+    <operation name="GetConversionStatus">
+      <input message="xsd1:GetConversionStatusRequest" />
+      <output message="xsd1:GetConversionStatusResponse" />
+    </operation>
+    <operation name="ConvertSimple">
+      <input message="xsd1:ConvertSimpleRequest" />
+      <output message="xsd1:ConvertSimpleResponse" />
+    </operation>
+    <operation name="ConvertSsml">
+      <input message="xsd1:ConvertSsmlRequest" />
+      <output message="xsd1:ConvertSsmlResponse" />
+    </operation>
+    <operation name="ConvertText">
+      <input message="xsd1:ConvertTextRequest" />
+      <output message="xsd1:ConvertTextResponse" />
+    </operation>
+  </portType>
+  <binding name="Binding" type="xsd1:PortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <operation name="GetConversionStatus">
+      <soap:operation soapAction="https://tts.neospeech.com/GetConversionStatus" />
+      <input>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/GetConversionStatus" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/GetConversionStatus" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="ConvertSimple">
+      <soap:operation soapAction="https://tts.neospeech.com/ConvertSimple" />
+      <input>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertSimple" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertSimple" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="ConvertSsml">
+      <soap:operation soapAction="https://tts.neospeech.com/ConvertSsml" />
+      <input>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertSsml" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertSsml" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="ConvertText">
+      <soap:operation soapAction="https://tts.neospeech.com/ConvertText" />
+      <input>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertText" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="https://tts.neospeech.com/ConvertText" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="NeoSpeechTtsSoapService">
+    <documentation />
+    <port name="Port" binding="xsd1:Binding">
+      <soap:address location="https://tts.neospeech.com/soap_1_1.php" />
+    </port>
+  </service>
+</definitions>

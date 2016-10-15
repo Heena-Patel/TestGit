@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?><PtSlides>
+    <PtSlideshowConversion slideshowNumber="1">
+    <client>
+            <userId>2728</userId>
+      <name>Century 21  Montana</name>
+      <email>c21montana@propdata.net</email>
+      <country>za</country>
+      
+      
+                        <youtubeUsername></youtubeUsername>
+                  <youtubePassword></youtubePassword>
+                  <youtubeApikey></youtubeApikey>
+      
+      <slideshowCreatedDate>2016-08-05 00:38:54</slideshowCreatedDate>
+          </client>
+    <sourceMedia>
+                        <image number="1">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/6a1b4f018e0cdfd_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="2">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/542415427ffa15f_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="3">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/0d13f57ba798f8f_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="4">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/d362dfa8cb94975_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="5">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/d9b819ee258de1b_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="6">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/24e4359543f7f0b_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="7">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/1a11e313045efab_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="8">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/8c24b1dce5e8b1c_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="9">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/1f4e1fa20fe0b6a_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="10">
+        <url><![CDATA[ http://d3d6208u46n5q9.cloudfront.net/century21/uploads/listings/2016/10/30a2631040d2751_t_w_640_h_480.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                </sourceMedia>
+    <destination>
+      <type>amazon</type>
+      <bucket>pt-slideshows</bucket>
+            <folder>2728</folder>
+                </destination>
+    <video>
+            <overlayImage><![CDATA[ http://propertytube.com/files/video-overlays/2728/Century21 SA.jpg ]]></overlayImage>
+      
+            <voiceOver>2</voiceOver>
+      
+            <theme>0</theme>
+      
+      <storeCopyOnFtp>1</storeCopyOnFtp>
+
+            <propertyId>564954</propertyId>
+      <filename>3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.mp4</filename>
+      
+      
+      <formats>
+        <format type="sd-mp4">
+          <filename>600_450_3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.mp4</filename>
+          <thumbnail>600_450_3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.png</thumbnail>
+        </format>
+        <format type="sd-webm">
+          <filename>600_450_3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.webm</filename>
+        </format>
+        <format type="smartphone-mp4">
+          <filename>smartphone_3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.mp4</filename>
+          <thumbnail>smartphone_3-bedroom-house-for-sale-in-soshanguve-pretoria-gauteng-south-africa-for-zar-485-000-564954.png</thumbnail>
+        </format>
+      </formats>
+    </video>
+    <propertyDetails>
+      <title><![CDATA[ 3 Bedroom House For Sale in Soshanguve, Pretoria, Gauteng, South Africa for ZAR 485,000 ]]></title>
+      <spokenTitle><![CDATA[ 3 Bedroom House For Sale in Soshanguve, Pretoria, Gauteng, South Africa for  485,000 rand. ]]></spokenTitle>
+      <youtubeDescription></youtubeDescription>
+      <tags></tags>
+      <propertyPrice>ZAR  485,000</propertyPrice>
+      <sale>1</sale>
+      <rent>0</rent>
+      <bedrooms>3</bedrooms>
+      <bathrooms>1.0</bathrooms>
+      <location><![CDATA[ Soshanguve, Pretoria, Gauteng, South Africa ]]></location>
+      <fullDescription><![CDATA[ 3 bedroom, 1 bathroom home in Soshanguve readily available for you. Also offering you a family room, a kitchen with breakfast nook perfect for meals to be shared together. Fully tiled. A wall to ensure your safety. This property is near public and private schools, universities and the Crossing mall. ]]></fullDescription>
+            <propertyType><![CDATA[ House ]]></propertyType>
+          </propertyDetails>
+        <propertyAgents>
+                  <propertyAgent id="31980" name="Pieter Mogashwa" email="pieter.mogashwa@century21.co.za" mobile="0623502807" officeNumber="0125431926" image="" />
+              </propertyAgents>
+    
+  </PtSlideshowConversion>
+  </PtSlides>

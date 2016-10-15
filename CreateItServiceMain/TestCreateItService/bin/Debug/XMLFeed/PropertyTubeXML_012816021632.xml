@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?><PtSlides>
+    <PtSlideshowConversion slideshowNumber="1">
+    <client>
+            <userId>2818</userId>
+      <name>Bryan Paddock</name>
+      <email>b.ryanpaddock@gmail.com</email>
+      <country></country>
+      
+      
+                        <youtubeUsername></youtubeUsername>
+                  <youtubePassword></youtubePassword>
+                  <youtubeApikey></youtubeApikey>
+      
+      <slideshowCreatedDate>2016-01-27 11:08:38</slideshowCreatedDate>
+          </client>
+    <sourceMedia>
+                        <image number="1">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490590.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="3">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490591.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="4">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490592.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="5">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490593.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="6">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490594.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                  <image number="2">
+        <url><![CDATA[ http://propertytube.com/files/slideshow-images/587661/48490595.jpg ]]></url>
+        <alttext></alttext>
+      </image>
+                </sourceMedia>
+    <destination>
+      <type>amazon</type>
+      <bucket>pt-slideshows</bucket>
+            <folder>2818</folder>
+                </destination>
+    <video>
+            <overlayImage/>
+      
+            <voiceOver/>
+      
+            <theme/>
+      
+      <storeCopyOnFtp>0</storeCopyOnFtp>
+
+            <propertyId>494939</propertyId>
+      <filename>manual-slideshow-test-494939.mp4</filename>
+      
+      
+      <formats>
+        <format type="sd-mp4">
+          <filename>600_450_manual-slideshow-test-494939.mp4</filename>
+          <thumbnail>600_450_manual-slideshow-test-494939.png</thumbnail>
+        </format>
+        <format type="sd-webm">
+          <filename>600_450_manual-slideshow-test-494939.webm</filename>
+        </format>
+        <format type="smartphone-mp4">
+          <filename>smartphone_manual-slideshow-test-494939.mp4</filename>
+          <thumbnail>smartphone_manual-slideshow-test-494939.png</thumbnail>
+        </format>
+      </formats>
+    </video>
+    <propertyDetails>
+      <title><![CDATA[ Manual Slideshow Test ]]></title>
+      <spokenTitle><![CDATA[ Manual Slideshow Test. ]]></spokenTitle>
+      <youtubeDescription><![CDATA[
+
+
+To view videos of similar listings in  please visit http://propertytube.com/channel/bryan-paddock-south-africa-4317
+
+Property Description
+
+
+
+
+
+Video Creation & Distribution by Convert It Video - http://www.convertitvideo.com
+
+]]></youtubeDescription>
+      <tags>
+              </tags>
+      <propertyPrice> 500,000</propertyPrice>
+      <sale>1</sale>
+      <rent>0</rent>
+      <bedrooms>1</bedrooms>
+      <bathrooms>0.0</bathrooms>
+      <location><![CDATA[  ]]></location>
+      <fullDescription><![CDATA[ . ]]></fullDescription>
+            <propertyType><![CDATA[ Apartment ]]></propertyType>
+          </propertyDetails>
+    
+  </PtSlideshowConversion>
+  </PtSlides>

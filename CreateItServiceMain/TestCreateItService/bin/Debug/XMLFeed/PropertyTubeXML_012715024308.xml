@@ -1,0 +1,111 @@
+<PtSlides>
+    <PtSlideshowConversion slideshowNumber="1">
+    <client>
+      <userId>10005</userId>
+      <name>Hiren Lad</name>
+      <email>hiren@gmail.com</email>
+	  <country>za</country>
+      <youtubeUsername>testdeveloperhiren@gmail.com </youtubeUsername><youtubePassword>testdeveloper2013 </youtubePassword><youtubeApikey>AI39si54kJHf9PreFn-7zFN2ZQS9fOBnG9CvJz-cO3PbPcZrCaeCNCrjTNvNov1G66f8DHYDQoMvOhQ3S0JlVoH301cYIQyHXA</youtubeApikey>
+     
+      <slideshowCreatedDate>2013-06-05 17:40:53</slideshowCreatedDate>
+    </client>
+    <sourceMedia>
+        <image number="1">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/1.jpg ]]></url>
+			<alttext></alttext>
+        </image>
+        <image number="2">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/2.jpg ]]></url>
+			<alttext></alttext>
+		</image>
+        <image number="3">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/3.jpg ]]></url>
+			<alttext></alttext>
+		</image>          
+		<image number="1">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/4.jpg ]]></url>
+			<alttext></alttext>
+        </image>
+        <image number="2">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/5.jpg ]]></url>
+			<alttext></alttext>
+		</image>
+        <image number="3">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/6.jpg ]]></url>
+			<alttext></alttext>
+		</image>
+		<image number="1">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/7.jpg ]]></url>
+			<alttext></alttext>
+        </image>
+        <image number="2">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/8.jpg ]]></url>
+			<alttext></alttext>
+		</image>
+        <image number="3">
+			<url><![CDATA[ http://www.ourclientwebsites.com/propertytube/images/9.jpg ]]></url>
+			<alttext></alttext>
+		</image>           		
+	</sourceMedia>
+    <destination>
+      <type>amazon</type>
+      <bucket>pt-slideshows</bucket>
+            <folder>10005</folder>
+                </destination>
+    <video>
+            <overlayImage><![CDATA[ http://www.propertytube.com/files/video-overlays/1849/littlehousecompany.jpg ]]></overlayImage>
+      
+      <voiceOver>2</voiceOver>
+
+      <theme>0</theme>
+
+            <propertyId>89301</propertyId>
+	<storeCopyOnFtp>1</storeCopyOnFtp>
+      <filename>4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.mp4</filename>
+      
+      
+      <formats>
+        <format type="sd-mp4">
+          <filename>600_450_4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.mp4</filename>
+          <thumbnail>600_450_4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.png</thumbnail>
+        </format>
+        <format type="sd-webm">
+          <filename>600_450_4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.webm</filename>
+        </format>
+        <format type="smartphone-mp4">
+          <filename>smartphone_4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.mp4</filename>
+          <thumbnail>smartphone_4-bedroom-bungalow-for-sale-in-bunessan-argyll-and-bute-pa67-uk-for-gbp-275-000-89301.png</thumbnail>
+        </format>
+      </formats>
+    </video>
+    <propertyDetails>
+      <title><![CDATA[ 4 Bedroom Bungalow For Sale in 12345 Bunessan, Argyll And Bute PA67, UK for GBP 275,000 ]]></title>
+      <spokenTitle><![CDATA[ 4 Bedroom Bungalow For Sale in 12345 Bunessan, Argyll And Bute PA67, UK for GBP 275,000. ]]></spokenTitle>
+      <youtubeDescription><![CDATA[
+Brought to you by The Little House Company
+http://thelittlehousecompany.com/property-for-sale/ardtun_bunessan_21751
+
+To view videos of similar listings in Bunessan please visit http://propertytube.com/channel/the-little-house-company-united-kingdom-3435
+
+Property Description
+
+p>	 Stunning Sea Views	 Secluded Location	 0.2 hectares of Mature Gardens and Patio	 Wildlife sightings	 Spacious Lounge	 Practical Kitchen/Diner	 4 Bedrooms	 Economical Oil Heating	 Private Road / Numerous Parking	 Local Primary School		A well-presented four bedroom bungalow, with spectacular open sea views, to Staffa and th...
+
+Property ref: 21751
+
+Video Creation & Distribution by Convert It Video - http://www.convertitvideo.com
+
+]]></youtubeDescription>
+      <tags>
+        <tag><![CDATA[ Property For Sale ]]></tag><tag><![CDATA[ Real Estate For Sale ]]></tag><tag><![CDATA[ Bunessan ]]></tag><tag><![CDATA[ Argyll And Bute PA67 ]]></tag><tag><![CDATA[ UK ]]></tag><tag><![CDATA[ United Kingdom ]]></tag><tag><![CDATA[ Bungalow ]]></tag>      </tags>
+      <propertyPrice>GBP  275,000</propertyPrice>
+      <sale>1</sale>
+      <rent>0</rent>
+      <bedrooms>4</bedrooms>
+      <bathrooms>1.0</bathrooms>
+      <location><![CDATA[ Bunessan, Argyll And Bute PA67, UK ]]></location>
+      <fullDescription><![CDATA[ p Stunning Sea Views Secluded Location 0.2 hectares of Mature Gardens and Patio Wildlife sightings Spacious Lounge Practical Kitchen Diner 4 Bedrooms Economical Oil Heating Private Road   Numerous Parking Local Primary SchoolA well-presented four bedroom bungalow, with spectacular open sea views, to Staffa and the Treshnish Isles. There have been recent sightings of Dolphins, Otters, Sea Eagles, Seals, and various sea birds.The accommodation comprises of 2 double bedrooms and 2 generous single bedrooms, a bright spacious lounge featuring stunning views across to Staffa, also a recently updated Kitchen diner with views looking towards Burg and Ben More. The bathroom comprises with.C. sink, bath and overhead Triton shower. The cloakroom and utility room has space and plumbing for a washing machine. There is a private drive and parking for numerous vehicles. Full oil fired central heating and hot water, served by externally located Worcester Greenstar Heatslave Extl 18 25 combination boiler. The Home Report is available on request.Shian is situated near the popular rural village of Bunessan on the Ross of Mull. The local amenities offer a village shop, caf and public house. An excellent primary school is less than a mile away. The bungalow is secluded from the road and other dwellings, and is beautifully positioned in 0.2 hectares of mature garden, with stream and fish pond. It is in an ideal position for you to fish, walk, and enjoy the quiet life. ]]></fullDescription>
+          </propertyDetails>
+    
+  </PtSlideshowConversion>
+         </PtSlides>

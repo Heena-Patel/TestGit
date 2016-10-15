@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CreateIt
+</name>
+</assembly>
+<members>
+<member name="P:CreateIt.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CreateIt.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CreateIt.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.#ctor">
+	<remarks/>
+</member><member name="E:CreateIt.neoSpeech.NeoSpeechTtsSoapService.GetConversionStatusCompleted">
+	<remarks/>
+</member><member name="E:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSimpleCompleted">
+	<remarks/>
+</member><member name="E:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSsmlCompleted">
+	<remarks/>
+</member><member name="E:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertTextCompleted">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.GetConversionStatus(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.GetConversionStatusAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.GetConversionStatusAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSimple(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSimpleAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSimpleAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSsml(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSsmlAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertSsmlAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean,System.Object)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertText(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean,System.Int32,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertTextAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean,System.Int32,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.ConvertTextAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Single,System.String,System.Boolean,System.Int32,System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:CreateIt.neoSpeech.NeoSpeechTtsSoapService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.NeoSpeechTtsSoapService">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.GetConversionStatusCompletedEventHandler">
+	<remarks/>
+</member><member name="P:CreateIt.neoSpeech.GetConversionStatusCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.GetConversionStatusCompletedEventArgs">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertSimpleCompletedEventHandler">
+	<remarks/>
+</member><member name="P:CreateIt.neoSpeech.ConvertSimpleCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertSimpleCompletedEventArgs">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertSsmlCompletedEventHandler">
+	<remarks/>
+</member><member name="P:CreateIt.neoSpeech.ConvertSsmlCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertSsmlCompletedEventArgs">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertTextCompletedEventHandler">
+	<remarks/>
+</member><member name="P:CreateIt.neoSpeech.ConvertTextCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:CreateIt.neoSpeech.ConvertTextCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>
